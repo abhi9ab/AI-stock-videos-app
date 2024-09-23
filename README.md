@@ -5,10 +5,10 @@ This project is inspired from [jsmasterypro](https://github.com/adrianhajdin/aor
 
 Additional features includes:  
 * Bookmark page  
-<img src="https://github.com/user-attachments/assets/ff494db9-c484-400a-ae5d-3a0684eb84c0" alt="screenshot" style="width:200px;"/>  
-* Page reload on pull to refresh
-* Form element set to initial state after refreshing the page.
-* user session optimized
+   <img src="https://github.com/user-attachments/assets/ff494db9-c484-400a-ae5d-3a0684eb84c0" alt="screenshot" style="width:200px;"/>  
+* Page reload on pull to refresh.  
+* Form element set to initial state after refreshing the page.  
+* user session optimized  
 
 ## Get started  
 
