@@ -88,7 +88,7 @@ const Profile = () => {
                 containerStyles="mr-10"
               />
               <InfoBox
-                title="1.4k"
+                title="1.2k"
                 subtitle="Followers"
                 titleStyles="text-xl"
               />
